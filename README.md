@@ -14,10 +14,10 @@ A healthcare analytics and machine learning capstone exploring operational perfo
 Python, SQL, Pandas, scikit-learn, Jupyter Notebook, FastAPI, Docker.
 
 ## Project Structure
-- `phase1_sql.ipynb` — SQL analytics
-- `phase2_eda.ipynb` — Exploratory data analysis
-- `phase3_modeling.ipynb` — Model development
-- `phase4_evaluation.ipynb` — Model evaluation
+- `Phase1_SQL.ipynb` — SQL analytics
+- `Phase2_EDA.ipynb` — Exploratory data analysis
+- `Phase3_Modeling.ipynb` — Model development
+- `Phase4_Evaluation.ipynb` — Model evaluation
 
 ## Notes
 This project was developed as an academic capstone. Model predictions are experimental and are not intended for real-world clinical decision-making.
