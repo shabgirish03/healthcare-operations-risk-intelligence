@@ -95,7 +95,7 @@ healthcare-operations-risk-intelligence/
 │   └── Deployment_runbook.md
 └── docs/
     ├── Data Quality Report.pdf
-    └── Healthcare_Insights_Report.md
+    ├── Healthcare_Insights_Report.md
     └── Governance_Compliance_Report.md
 ```
 
