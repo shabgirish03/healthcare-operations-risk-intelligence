@@ -53,17 +53,22 @@ The wider capstone work includes a FastAPI application, Docker-based deployment 
 
 ## Repository Structure
 
-```text
 healthcare-operations-risk-intelligence/
+├── README.md
 ├── notebooks/
 │   ├── Phase1_SQL.ipynb
 │   ├── Phase2_EDA.ipynb
 │   ├── Phase3_Modeling.ipynb
 │   └── Phase4_Evaluation.ipynb
-└── README.md
-```
-
-Additional deployment code and documentation may be added as the portfolio version is finalised.
+├── api/
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── Dockerfile
+│   └── Deployment_runbook.md
+└── docs/
+    ├── Healthcare_Insights_Report.pdf
+    ├── Data Quality Report.pdf
+    └── Governance&Compliance Report.pdf
 
 ## Responsible Use and Limitations
 
